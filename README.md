@@ -4,8 +4,7 @@ Thanks for checking out my GitHub! I'm a transgender woman 🏳️‍⚧️ and 
 
 I'm skilled at 
 
-- gameplay programmng
-- gameplay design
+- gameplay programmng & Design
 - Engine Programming
 - Systems Programming
 - Tools Programming
@@ -13,18 +12,12 @@ I'm skilled at
 
 And have experience in
 
-- Unreal Engine (+ API)
-- Unity Engine (+ API)
+- Unreal / Unity Engines (& APIs)
 - C++
 - C#
 - Rust
-- JavaScript
-- Typescript
-- React
-- Git & GitHub (Obviously!!)
-- Windows-based development
-- Linux-based development
-- Mac-based development
+- JavaScript & Typescript + React / React Native
+- Windows, Linux, and Mac Deployment and Development
 
 I'm currently looking for work, so I'd love to hear from anyone for any reason whatsoever. Email me at [natalie.soltis@outlook.com](mailto:natalie.soltis@outlook.com)!
 <!---
