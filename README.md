@@ -21,7 +21,6 @@ And have experience using:
 - Windows, Linux, and Mac Deployment and Development
 - Mobile device Deployment and Development
 - Unreal / Unity Engines (& APIs)
-- 
 
 I'm currently looking for work, so I'd love to hear from anyone for any reason whatsoever! Email me at [natalie.soltis@outlook.com](mailto:natalie.soltis@outlook.com) or send me a message on LinkedIn!
 <!---
